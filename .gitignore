@@ -5,3 +5,4 @@
 *.keypair
 *-keypair.json
 scripts/*.backup
+website/*.before-root-move
