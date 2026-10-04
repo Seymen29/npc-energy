@@ -1,0 +1,7 @@
+.mint
+*.json.backup
+*.local-test-final
+*.before-local-banner
+*.keypair
+*-keypair.json
+scripts/*.backup
