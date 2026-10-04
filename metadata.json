@@ -2,8 +2,8 @@
   "name": "NPC ENERGY",
   "symbol": "NPC",
   "description": "NPC ENERGY — a community meme token on Solana. No promises, no hidden mechanics, just internet energy.",
-  "image": "REPLACE_WITH_PUBLIC_IMAGE_URL",
-  "external_url": "REPLACE_WITH_PROJECT_WEBSITE",
+  "image": "https://seymen29.github.io/npc-energy/npc-energy-logo.png",
+  "external_url": "https://seymen29.github.io/npc-energy/",
   "attributes": [
     {
       "trait_type": "Chain",
