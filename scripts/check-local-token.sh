@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-MINT="HzQtXB8TgQywM4zbNmAejTTfM1HvxfLjMACtJjny5trF"
+MINT="5TaAbZsNNsrhczry7brHbqwmCYpVP2qncVqYMrke2qXd"
 
 echo "=== NPC ENERGY LOCAL TEST ==="
 echo

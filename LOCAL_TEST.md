@@ -3,7 +3,7 @@
 Network: local Solana test validator
 
 Mint:
-HzQtXB8TgQywM4zbNmAejTTfM1HvxfLjMACtJjny5trF
+5TaAbZsNNsrhczry7brHbqwmCYpVP2qncVqYMrke2qXd
 
 Supply:
 1,000,000,000 NPC
