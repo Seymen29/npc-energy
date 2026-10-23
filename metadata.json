@@ -1,7 +1,7 @@
 {
   "name": "NPC ENERGY",
   "symbol": "NPC",
-  "description": "NPC ENERGY — a community meme token on Solana. No promises, no hidden mechanics, just internet energy.",
+  "description": "NPC ENERGY — a community meme token on Solana. Fixed supply, no promises, no fake volume, transparent pre-launch information.",
   "image": "https://seymen29.github.io/npc-energy/npc-energy-logo.png",
   "external_url": "https://seymen29.github.io/npc-energy/",
   "attributes": [
@@ -10,12 +10,28 @@
       "value": "Solana"
     },
     {
+      "trait_type": "Program",
+      "value": "Token-2022"
+    },
+    {
       "trait_type": "Supply",
       "value": "1,000,000,000"
     },
     {
+      "trait_type": "Decimals",
+      "value": "6"
+    },
+    {
       "trait_type": "Tax",
       "value": "0%"
+    },
+    {
+      "trait_type": "Mint authority",
+      "value": "Disabled"
+    },
+    {
+      "trait_type": "Freeze authority",
+      "value": "Disabled"
     }
   ]
 }
